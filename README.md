@@ -23,6 +23,7 @@ Setiap notebook berisi langkah praktikum lengkap dengan output eksekusi, sehingg
 | JS04 | Klasifikasi dan pemisahan data | [JS04](JS04) |
 | JS05 | Klasifikasi kNN dan Naive Bayes | [JS05](JS05) |
 | JS06 | Klasifikasi SVM (linier, non-linier, citra wajah, siang-malam) | [JS06](JS06) |
+| JS07 | Klasterisasi | [JS07](JS07)
 
 Tiap folder berisi notebook praktikum (`-01`, `-02`, ...) dan notebook tugas. Notebook JS06 sudah dilengkapi output hasil eksekusi.
 
